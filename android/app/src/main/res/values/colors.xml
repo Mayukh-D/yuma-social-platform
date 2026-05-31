@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#3949AB</color>
+    <color name="primary_dark">#1A237E</color>
+    <color name="primary_light">#E8EAF6</color>
+    <color name="accent">#00897B</color>
+    <color name="background">#F4F6F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="header_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="error">#E53935</color>
+    <color name="success">#43A047</color>
+    <color name="admin_color">#FF6F00</color>
+    <color name="bubble_sent">#3949AB</color>
+    <color name="bubble_received">#EEEEEE</color>
+    <color name="bubble_sent_text">#FFFFFF</color>
+    <color name="bubble_received_text">#1A1A2E</color>
+    <color name="card_stroke">#E5E7EB</color>
+</resources>

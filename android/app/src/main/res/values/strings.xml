@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">DreamerGram</string>
+    <string-array name="sort_strategies">
+        <item>Most Recent</item>
+        <item>Unread First</item>
+    </string-array>
+</resources>
