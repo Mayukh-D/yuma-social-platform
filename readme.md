@@ -2,6 +2,8 @@
 
 A native Android message moderation and social platform built on top of the Hackathon 1 Java backend. The app is called **Yuma** - a public gathering place to share ideas, discuss, and connect.
 
+▶ **[Watch the demo video](https://youtu.be/8i9f6ksx3xQ)**
+
 ---
 
 ## Screenshot
